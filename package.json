@@ -1,20 +1,16 @@
 {
-  "name": "swipebox",
-  "version": "1.4.6",
+  "name": "fgswipebox",
+  "version": "1.5.3",
   "description": "A touchable jQuery lightbox",
   "main": "/src/js/jquery.swipebox.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brutaldesign/swipebox.git"
+    "url": "git+https://github.com/FUNCKGROUP/fg_swipebox.git"
   },
   "keywords": [
     "Lightbox",
     "jQuery"
   ],
   "author": "Constantin Saguin",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/brutaldesign/swipebox/issues"
-  },
-  "homepage": "https://github.com/brutaldesign/swipebox#readme"
+  "license": "MIT"  
 }
